@@ -35,6 +35,7 @@
 * Mathematical calculations
 * `abs()` function
 * Decimal formatting using `.6f`
+* * Lists and arrays
 
 ## Day 2 Status
 

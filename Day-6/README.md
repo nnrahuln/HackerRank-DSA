@@ -21,6 +21,7 @@
 - **Topic:** Arrays, Brute Force
 - **Description:** Find the maximum amount that can be spent on a keyboard and USB drive without exceeding the budget.
 - **Concepts:** Lists, Nested `for` loops, Conditions, `max()`.
+- - **Topic:** Strings, Loops
 
 ## Concepts Learned
 

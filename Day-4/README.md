@@ -69,7 +69,7 @@
 
 ---
 
-### 📊 Progress
+### 📊 Progress ###
 
 | Problem | Name                 | Status |
 | ------- | -------------------- | ------ |
